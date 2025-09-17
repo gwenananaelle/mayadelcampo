@@ -2,13 +2,7 @@
 title: About me
 ---
 
-### Hi, I'm Sara Richard 👋
+### Meet Maya
 
-I've been a photographer for over 10 years, focusing primarily on landscape and portrait photography. My journey began
-with a simple point-and-shoot camera while traveling through the mountains of Colorado, which sparked a passion that has
-taken me across the globe.
-My approach to photography centers on finding the extraordinary in ordinary moments. I believe that beauty exists
-everywhere – in urban streets, remote wilderness, and human connections. My goal is to capture these fleeting instances
-in a way that allows viewers to see the world through a different lens.
-When I'm not behind the camera, you can find me hiking in national parks, exploring new cities, or enjoying a cup of
-coffee at local cafés while planning my next photo adventure.
+If you were a traveller in the infinite cosmos.. What could you see or rather perceive? Colours I believe. Colours merging and drifting, from the softest of pinks to the most dazzling yellows. Stars shooting across a vast blue that has nothing to do with anything you have ever felt on earth. And these colours would play together, transforming into subtle notes. Each colour exactly connected to one another in a perfect harmony. Your eyes become your ears become your eyes again and you see and hear at the same time the most beautiful and comforting symphony.<br>
+I started painting as a child because words were blocked but colours went straight into me, through me, creating an expressive channel. From the light to my heart directly and by some magical alchemy through my strong hands. Finally I could express myself. Colours have been my translator. Took me years to start showing my work. But then I did. And people would say they felt soothed by the serenity. The scenes of interior bliss, the woman at the window, the dog dreaming on the couch. I have no other intention but to share the beauty I can sense. Could it be the most direct and human way to heal, to connect, to change? Beauty not as a concept, beauty in every day every minute…

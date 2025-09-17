@@ -1,5 +1,5 @@
 import type { AstroInstance } from 'astro';
-import { Github, Instagram } from 'lucide-astro';
+import { Linkedin, Mail } from 'lucide-astro';
 
 export interface SocialLink {
 	name: string;
@@ -8,20 +8,20 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'SR',
-	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
-	profileImage: 'profile.webp',
+	title: 'Maya del Campo',
+	favicon: 'logo.png',
+	owner: 'Marie Deschamps',
+	profileImage: 'profile.png',
 	socialLinks: [
 		{
-			name: 'GitHub',
-			url: 'https://github.com/rockem/astro-photography-portfolio',
-			icon: Github,
+			name: 'linkedin',
+			url: 'https://www.linkedin.com/in/marie-julie-deschamps-b117a43a',
+			icon: Linkedin,
 		} as SocialLink,
 		{
-			name: 'Instagram',
-			url: 'https://www.instagram.com',
-			icon: Instagram,
+			name: 'mail',
+			url: 'mailto:marie.deschamps@yahoo.com',
+			icon: Mail,
 		} as SocialLink,
 	],
 };
