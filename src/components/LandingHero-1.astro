@@ -1,5 +1,5 @@
 ---
-const base = import.meta.env.BASE_URL;
+import LinkButton from './LinkButton.astro';
 ---
 
 <div class="absolute left-0 right-0 z-0">
@@ -9,14 +9,6 @@ const base = import.meta.env.BASE_URL;
 			I have no other intention but to share the beauty I can sense. Could it be the most direct and
 			human way to heal, to connect, to change?
 		</p>
-		<a
-			href=`${base}/collections`
-			class="mt-8 inline-block px-6 py-3 border-2 border-black rounded-md
-                      hover:bg-black hover:text-white transition-all duration-300
-                      text-sm md:text-base font-medium
-                      transform hover:scale-105 active:scale-95"
-		>
-			View Gallery
-		</a>
+		<LinkButton link="collections">View Gallery</LinkButton>
 	</div>
 </div>
