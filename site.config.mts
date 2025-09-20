@@ -11,7 +11,7 @@ export default {
 	title: 'Maya del Campo',
 	favicon: 'logo.png',
 	owner: 'Marie Deschamps',
-	profileImage: 'profile.png',
+	profileImage: 'profile.jpg',
 	socialLinks: [
 		{
 			name: 'linkedin',
