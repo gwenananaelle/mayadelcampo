@@ -30,6 +30,7 @@
 		--ring: 240 10% 3.9%;
 		--radius: 0.5rem;
 	}
+
 	@theme inline {
 		--font-script: 'Bad Script', cursive;
 		--color-bot-blue: #8ecae6;
@@ -41,7 +42,7 @@
 
 	body {
 		@apply bg-background text-foreground font-sans;
-		font-family: 'Bad Script', cursive;
+		font-family: 'Montserrat', sans-serif;
 	}
 
 	h1,

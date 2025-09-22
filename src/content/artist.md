@@ -19,3 +19,8 @@ My artwork has been exhibited internationally, including:
 - London Art Biennale (London, 2013)
 - Art Paris (2012) • Galerie Étienne de Causans (Solo Show, Paris, 2011)
 - IparkArt (Paris, 2010).
+
+A curious optimist, Marie directed the docu-fiction “The Journey of the Blue Butterfly”, a poetic film born from encounters with optimistic strangers during a two-year backpacking trip around the world. You can watch it [here](https://www.youtube.com/watch?v=o7p0TvI8Iiw).
+
+![](../assets/artPractice/practice1.jpg)
+![](../assets/artPractice/practice2.jpg)
