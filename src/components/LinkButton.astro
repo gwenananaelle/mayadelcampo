@@ -6,7 +6,7 @@ const { link } = Astro.props;
 <button
 	class="bg-anchor-yellow hover:bg-onthology-orange text-white rounded-md mt-8 inline-block px-6 py-3"
 >
-	<a href=`${base}/${link}` class="text-white no-underline text-sm md:text-base font-medium">
+	<a href=`${base}${link}` class="text-white no-underline text-sm md:text-base font-medium">
 		<slot />
 	</a>
 </button>
