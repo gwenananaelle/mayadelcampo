@@ -934,6 +934,7 @@ images:
       description: ''
       collections:
         - imagination
+        - featured
     exif: {}
   - path: imagination/imagination00013.jpeg
     meta:
@@ -1011,6 +1012,7 @@ images:
       description: ''
       collections:
         - imagination
+        - featured
     exif: {}
   - path: imagination/imagination00024.jpeg
     meta:
@@ -1284,6 +1286,7 @@ images:
       description: ''
       collections:
         - moments
+        - featured
     exif: {}
   - path: moments/moments00019.jpg
     meta:
@@ -1305,6 +1308,7 @@ images:
       description: ''
       collections:
         - moments
+        - featured
     exif: {}
   - path: moments/moments00022.jpg
     meta:
@@ -1326,6 +1330,7 @@ images:
       description: ''
       collections:
         - moments
+        - featured
     exif: {}
   - path: moments/moments00025.jpg
     meta:
@@ -1382,6 +1387,7 @@ images:
       description: ''
       collections:
         - moments
+        - featured
     exif: {}
   - path: moments/moments00033.jpeg
     meta:
@@ -1410,6 +1416,7 @@ images:
       description: ''
       collections:
         - motherhood
+        - featured
     exif: {}
   - path: motherhood/motherhood00003.jpeg
     meta:
@@ -1683,6 +1690,7 @@ images:
       description: ''
       collections:
         - motherhood
+        - featured
     exif: {}
   - path: motherhood/motherhood00042.jpeg
     meta:
@@ -1879,6 +1887,7 @@ images:
       description: ''
       collections:
         - motherhood
+        - featured
     exif: {}
   - path: motherhood/motherhood00070.jpg
     meta:
@@ -2110,6 +2119,7 @@ images:
       description: ''
       collections:
         - portrait
+        - featured
     exif: {}
   - path: portrait/portrait00028.jpg
     meta:
@@ -2243,6 +2253,7 @@ images:
       description: ''
       collections:
         - portrait
+        - featured
     exif: {}
   - path: portrait/portrait00047.jpeg
     meta:
@@ -2467,4 +2478,5 @@ images:
       description: ''
       collections:
         - portrait
+        - featured
     exif: {}
