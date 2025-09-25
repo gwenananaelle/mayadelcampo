@@ -10,4 +10,4 @@ I am a Licensed Professional Counselor (LPC-A) and a Registered Art Therapist (A
 
 Alongside clinical work, I serve as a professor of art therapy, training future therapists across Central and South America at the Instituto Mexicano de Psicoterapia de Arte, and as a Visiting Scholar at The New School University (NY), where my research focuses on the intersection of technology, art, and mental health.<br>
 
-To learn more about art therapy or my current projects, please visit [curiousarttherapy.com](curiousarttherapy.com).
+To learn more about art therapy or my current projects, please visit [curiousarttherapy.com](https://www.curiousarttherapy.com).
