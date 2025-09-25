@@ -3,8 +3,8 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://gwenananaelle.github.io/mayadelcampo/',
-	base: '/mayadelcampo/',
+	site: 'https://www.mayadelcampo.com/',
+	base: '',
 	vite: {
 		plugins: [tailwindcss()],
 	},
